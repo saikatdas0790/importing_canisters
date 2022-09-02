@@ -1,0 +1,1 @@
+service : { call_imported_func : () -> (text) }

@@ -1,4 +1,2 @@
 [workspace]
-members = [
-    "src/importing_canisters_backend",
-]
+members = ["src/importing_canister", "src/imported_canister"]
